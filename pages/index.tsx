@@ -1,7 +1,10 @@
 import React from 'react'
 
-function Home() {
-    return <h1>Hello world</h1>
+const Home: React.FC = () => {
+  return (
+    <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', width: '100%', height: '1000px'}}>
+      <h1>Em construção</h1>
+    </div>
+  )
 }
-
 export default Home
