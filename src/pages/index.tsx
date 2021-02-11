@@ -1,6 +1,6 @@
 import React from 'react'
 import { Container } from '../styles/pages/Home'
-import BackgroundSVG from '../assets/BackgroundSVG.svg'
+import BackgroundSVG from '../assets/backgroundSVG.svg'
 
 const Home: React.FC = () => {
   return (
